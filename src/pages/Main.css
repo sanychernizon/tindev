@@ -54,3 +54,7 @@
   background: #fff;
   cursor: pointer;
 }
+
+.main-container .empty {
+  margin-top: 20px;
+}
